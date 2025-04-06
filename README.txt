@@ -21,5 +21,8 @@ Trig -> ljubicasta -> (LED_G) GPIO_26
 Echo -> zuta -> (LED_R) GPIO_27
 
 gui radi odvojeno, ali ne zajedno
+kod za gui se izgubio
+
+u main.zip se nalazi kod za citanje senzora
 
 Luka Bulić, Andrey Tolstikov, David Japec, Gabrijel Biočić
