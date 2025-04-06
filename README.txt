@@ -26,3 +26,4 @@ kod za gui se izgubio
 u main.zip se nalazi kod za citanje senzora
 
 Luka Bulić, Andrey Tolstikov, David Japec, Gabrijel Biočić
+GPIO botun busters
